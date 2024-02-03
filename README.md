@@ -1,3 +1,3 @@
-# aplikasi Ur Smart Ecosystem
+# Aplikasi UrSmartEcosystem (USE)
 
-https://erfahtech.github.io
+https://ursmartecosystem.my.id
