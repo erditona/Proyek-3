@@ -1,4 +1,4 @@
-# 🌐 WEB APPLICATION - URSMARTECOSYSTEM (USE) INTEGRATED WITG COLOG V3 🛠️
+# 🌐 WEB APPLICATION - URSMARTECOSYSTEM (USE) INTEGRATED WITH COLOG V3 🛠️
 ![use](https://github.com/erditona/Ursmartecosystem-App/assets/91595733/bff20950-f936-4eb9-a0f8-57c8ffe77448)
 
 ## 📋 Deskripsi
